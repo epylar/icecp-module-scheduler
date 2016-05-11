@@ -1,0 +1,3 @@
+{
+  "scheduler-triggers": "{\"rangeTriggers\":[{\"id\": \"dex-trigger\",\"startTime\": \"11:00 PM\",\"endTime\": \"5:00 AM\",\"cmd\":\"upload\", \"publishChannel\":\"ndn:/intel/dex/command\"}, {\"id\": \"tap-trigger\",\"startTime\": \"11:00 PM\",\"endTime\": \"5:00 AM\",\"publishChannel\":\"ndn:/intel/scheduler/tap/triggers\"}],\"intervalTriggers\":[{\"id\":\"ack-trigger\",\"interval\": 10, \"unit\": \"MINUTES\",\"publishChannel\":\"ndn:/intel/scheduler/ack/triggers\"}]}"
+}
