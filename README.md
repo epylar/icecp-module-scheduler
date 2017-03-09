@@ -72,8 +72,8 @@ Clone this repository and run: mvn install.
 
 ### Documentation
 
- - [Wiki](https://github.intel.com/iSPA/icecp-module-scheduler/wiki)
- - [Javadoc](https://github.intel.com/pages/iSPA/icecp-module-scheduler)
+ - [Wiki](https://github.com/icecp/icecp-module-scheduler/wiki)
+ - [Javadoc](https://icecp.github.io/icecp-module-scheduler)
 
 
 ### License
